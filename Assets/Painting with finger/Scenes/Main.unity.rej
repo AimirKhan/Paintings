@@ -1,0 +1,38 @@
+diff a/Assets/Painting with finger/Scenes/Main.unity b/Assets/Painting with finger/Scenes/Main.unity	(rejected hunks)
+@@ -297,6 +297,36 @@
+   - {fileID: 11400000, guid: 616887d9605428b46b7fe22ca3a5c7ef, type: 2}
+   - {fileID: 11400000, guid: 0ceb76c9d9e90c2478a97c9adf15d737, type: 2}
+   - {fileID: 11400000, guid: 2afb1adc0b1c6a240ae1f6ce1964a50b, type: 2}
++--- !u!1 &103503634
++GameObject:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  serializedVersion: 6
++  m_Component:
++  - component: {fileID: 103503635}
++  m_Layer: 0
++  m_Name: ============
++  m_TagString: Untagged
++  m_Icon: {fileID: 0}
++  m_NavMeshLayer: 0
++  m_StaticEditorFlags: 0
++  m_IsActive: 1
++--- !u!4 &103503635
++Transform:
++  m_ObjectHideFlags: 0
++  m_CorrespondingSourceObject: {fileID: 0}
++  m_PrefabInstance: {fileID: 0}
++  m_PrefabAsset: {fileID: 0}
++  m_GameObject: {fileID: 103503634}
++  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
++  m_LocalPosition: {x: -20.977757, y: -6.200001, z: 100}
++  m_LocalScale: {x: 1, y: 1, z: 1}
++  m_Children: []
++  m_Father: {fileID: 0}
++  m_RootOrder: 5
++  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+ --- !u!1 &128702819
+ GameObject:
+   m_ObjectHideFlags: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 470c6bde0089d18408bb87957de2a8aa, type: 3}
+  m_Name: Sticker_17
+  m_EditorClassIdentifier: 
+  m_StickerId: 17
+  m_StickerBlocked: {fileID: 177397580165584641, guid: 2ccaecf232904c643bd798922b4db622, type: 3}
+  m_StickerGlow: {fileID: 21300000, guid: c941b5d17a703b443a7a367fa79c3bf4, type: 3}
+  m_StickerActive: {fileID: 419098887757524289, guid: 98075a0117a78d04184256afad981a1c, type: 3}

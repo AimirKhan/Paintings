@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 8b587dc5743ac4fdaa3347e2af5370da
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: ce0beb8fc16bff54f9ba8c75b774743b
+  - enabled: 1
+    path: Assets/DM/Scenes/LevelSelector.unity
+    guid: 1fa2f418a961ef74eba194c479396919
+  - enabled: 1
+    path: Assets/FC/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Painting with finger/Scenes/Main.unity
+    guid: 22b3da3534081ff49913967749849bb3
+  - enabled: 1
+    path: Assets/LC/LC_Scene.unity
+    guid: 0ff2f52a5758e8f4e8b377e35f4d379e
+  - enabled: 1
+    path: Assets/DM/Scenes/GameFieldScreen.unity
+    guid: 4c77d8c278e0f06438783a8a7cfe7c7f
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 99cb1240083cc3041b2c89b0948b56b2
+  m_configObjects: {}

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525778cb4405b4f948397f699f3a70fb, type: 3}
+  m_Name: TurtlePage
+  m_EditorClassIdentifier: 
+  ImageSize: 0.9
+  StartSprite: {fileID: -3745163931830953359, guid: b31f754db8c88454787968428fd841c5, type: 3}
+  PositionStartImage: {x: 0, y: 0, z: 10}
+  m_Arts:
+  - Sprite: {fileID: 5728409991773732885, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 0.71, y: 2.55, z: -11}
+    PositionUIImage: {x: 71.8, y: 311.5, z: 11}
+    isShading: 1
+  - Sprite: {fileID: 8820914459504927705, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 2.78, y: 1.8, z: -10}
+    PositionUIImage: {x: 278.8, y: 236.3, z: 10}
+    isShading: 1
+  - Sprite: {fileID: -1838687979144940951, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -0.31, y: 1.5, z: -8}
+    PositionUIImage: {x: -30.4, y: 206.7, z: 8}
+    isShading: 1
+  - Sprite: {fileID: -3990616780871015818, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 2, y: 0.64, z: -8}
+    PositionUIImage: {x: 198.8, y: 118.7, z: 8}
+    isShading: 1
+  - Sprite: {fileID: -3089642149170110259, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 1.265, y: 1.24, z: -5}
+    PositionUIImage: {x: 128.6, y: 179.5, z: 5}
+    isShading: 0
+  - Sprite: {fileID: -4764731884493548888, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -2.04, y: -0.87, z: -15}
+    PositionUIImage: {x: -204.2, y: -30.1, z: 15}
+    isShading: 1
+  - Sprite: {fileID: -7955116805954092814, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 0.56, y: 0.07, z: -7}
+    PositionUIImage: {x: 56.1, y: 63.6, z: 7}
+    isShading: 1
+  - Sprite: {fileID: -7995456551564746077, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 3.34, y: 0, z: -7}
+    PositionUIImage: {x: 337.6, y: 57.2, z: 7}
+    isShading: 1
+  - Sprite: {fileID: -3746779936095150558, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 1.23, y: -0.22, z: -25}
+    PositionUIImage: {x: 122, y: 33.1, z: 25}
+    isShading: 1
+  - Sprite: {fileID: -5879221057108207858, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -1.23, y: -2.92, z: -5}
+    PositionUIImage: {x: -122.1, y: -235, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 3386428233730466968, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 1.79, y: -2.38, z: -5}
+    PositionUIImage: {x: 179.4, y: -182, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -3178940373843826698, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 3.79, y: -1.19, z: -5}
+    PositionUIImage: {x: 379.5, y: -62.5, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 2171478801075812729, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -3.93, y: -0.98, z: -20}
+    PositionUIImage: {x: -392.5, y: -40.9, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 6579908074883228434, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -0.58, y: -1.73, z: -17}
+    PositionUIImage: {x: -61.9, y: -118.6, z: 17}
+    isShading: 1
+  - Sprite: {fileID: -3186673273940293393, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 3.21, y: -2.48, z: -15}
+    PositionUIImage: {x: 322, y: -194.6, z: 15}
+    isShading: 1
+  - Sprite: {fileID: 5930765027587857128, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -2.14, y: -0.42, z: -20}
+    PositionUIImage: {x: -214.4, y: 14.5, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -4843275862017701736, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: 1.08, y: -0.73, z: -10}
+    PositionUIImage: {x: 110.2, y: -14.4, z: 10}
+    isShading: 1
+  - Sprite: {fileID: 2367495302992109775, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -0.45, y: -2.52, z: -20}
+    PositionUIImage: {x: -46.1, y: -197.5, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -6199701361437876443, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -4, y: 0.14, z: -20}
+    PositionUIImage: {x: -400.9, y: 70.4, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 4523617119903920110, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -2.56, y: 0.59, z: -20}
+    PositionUIImage: {x: -256.4, y: 115, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 1934352271560867751, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -3.71, y: -0.88, z: -25}
+    PositionUIImage: {x: -370.8, y: -32, z: 25}
+    isShading: 0
+  - Sprite: {fileID: -5177505325307993096, guid: b31f754db8c88454787968428fd841c5, type: 3}
+    PositionImage: {x: -1.9, y: -0.37, z: -25}
+    PositionUIImage: {x: -189.6, y: 19.5, z: 25}
+    isShading: 0

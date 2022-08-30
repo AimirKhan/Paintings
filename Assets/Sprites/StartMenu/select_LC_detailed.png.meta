@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 1274ddfa3fdaefc4cbfbe750f8b3969f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1682556985239343213
+    second: select_LC_left_ear
+  - first:
+      213: -278828525497103965
+    second: select_LC_right_ear
+  - first:
+      213: 489740358105818737
+    second: select_LC_bluestar1
+  - first:
+      213: 5700698769382486565
+    second: select_LC_bluestar2
+  - first:
+      213: 3104922364401054852
+    second: select_LC_particles1
+  - first:
+      213: -5028642925422488207
+    second: select_LC_particles2
+  - first:
+      213: -156569372906601695
+    second: select_LC_15
+  - first:
+      213: 4619440639457834685
+    second: select_LC_nose
+  - first:
+      213: 6884085447854938079
+    second: select_LC_mouth
+  - first:
+      213: -5511436118868454203
+    second: select_LC_buttons
+  - first:
+      213: 2126852101790544112
+    second: select_LC_22
+  - first:
+      213: -3479668527835594405
+    second: select_LC_23
+  - first:
+      213: -6144337581885661426
+    second: select_LC_shoulder_left
+  - first:
+      213: -1260623005366331007
+    second: select_LC_shoulder_right
+  - first:
+      213: 1639036614428937044
+    second: select_LC_eyebrows
+  - first:
+      213: 7119042181770368026
+    second: select_LC_body
+  - first:
+      213: -8464248250045316479
+    second: select_LC_pocket
+  - first:
+      213: 1165304507640686094
+    second: select_LC_leaf
+  - first:
+      213: -9046691828822550760
+    second: select_LC_eyes_closed
+  - first:
+      213: 652734724119532718
+    second: select_LC_eyeballs_open
+  - first:
+      213: 7898328447416891761
+    second: select_LC_back
+  - first:
+      213: -957618830479112429
+    second: select_LC_hand_left
+  - first:
+      213: 1156369994491315385
+    second: select_LC_hand_right
+  - first:
+      213: 1923988623344946679
+    second: select_LC_39
+  - first:
+      213: -1233679349596651825
+    second: select_LC_highlights1
+  - first:
+      213: 5759599797863430649
+    second: select_LC_foot_left
+  - first:
+      213: -7711521778035597318
+    second: select_LC_foot_lef
+  - first:
+      213: 672579035808191492
+    second: select_LC_highlights2
+  - first:
+      213: -2624486864858765778
+    second: select_LC_yellowstar_light
+  - first:
+      213: 4732459533069227642
+    second: select_LC_4highlights3
+  - first:
+      213: 2139973442624205914
+    second: select_LC_yellowstar
+  - first:
+      213: 3475271954091983719
+    second: select_LC_cheeks
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: select_LC_left_ear
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1753
+        width: 262
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601b8bd9a4a95710800000000000000
+      internalID: 1682556985239343213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_right_ear
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1793
+        width: 254
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9cf70fee6612cf0800000000000000
+      internalID: -278828525497103965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_bluestar1
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1887
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e11dc248ebc600800000000000000
+      internalID: 489740358105818737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_bluestar2
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1897
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522bc80c353fc1f40800000000000000
+      internalID: 5700698769382486565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_particles1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1680
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847a499076e61b20800000000000000
+      internalID: 3104922364401054852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_particles2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1702
+        width: 97
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17559e7f6eba63ab0800000000000000
+      internalID: -5028642925422488207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1256
+        width: 516
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12342312cf0c3ddf0800000000000000
+      internalID: -156569372906601695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_nose
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1653
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db633e769cc8b1040800000000000000
+      internalID: 4619440639457834685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_mouth
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1473
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd754dacd3f298f50800000000000000
+      internalID: 6884085447854938079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_buttons
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1327
+        width: 264
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4969cfc027383b0800000000000000
+      internalID: -5511436118868454203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1016
+        width: 406
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b401d7b8148d10800000000000000
+      internalID: 2126852101790544112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_shoulder_left
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1144
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5f9bf58deabaa0800000000000000
+      internalID: -6144337581885661426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_shoulder_right
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1150
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18954714e0e518ee0800000000000000
+      internalID: -1260623005366331007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_eyebrows
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 898
+        width: 265
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b45e8ed170fb610800000000000000
+      internalID: 1639036614428937044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_body
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 728
+        width: 321
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d171652bebc260800000000000000
+      internalID: 7119042181770368026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_pocket
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 949
+        width: 176
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c355ef03f88a80800000000000000
+      internalID: -8464248250045316479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_leaf
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 904
+        width: 311
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a511964efb2010800000000000000
+      internalID: 1165304507640686094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_eyes_closed
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 766
+        width: 331
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175a9e86b1b37280800000000000000
+      internalID: -9046691828822550760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_eyeballs_open
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 588
+        width: 377
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea415b3f5cafe0900800000000000000
+      internalID: 652734724119532718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_back
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 82
+        width: 753
+        height: 753
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17975a330ef7c9d60800000000000000
+      internalID: 7898328447416891761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_hand_left
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 528
+        width: 161
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31741135fbad5b2f0800000000000000
+      internalID: -957618830479112429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_hand_right
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 622
+        width: 190
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4439e12604c0010800000000000000
+      internalID: 1156369994491315385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 461
+        width: 315
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4e5e857163ba10800000000000000
+      internalID: 1923988623344946679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_highlights1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 369
+        width: 266
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7e88fa2711eee0800000000000000
+      internalID: -1233679349596651825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_foot_left
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 372
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9bf0020853eef40800000000000000
+      internalID: 5759599797863430649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_foot_lef
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 360
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdf7edccb2bf490800000000000000
+      internalID: -7711521778035597318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_highlights2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 307
+        width: 239
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d8b0d11b755900800000000000000
+      internalID: 672579035808191492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_yellowstar_light
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 29
+        width: 295
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262a6ef913f39bd0800000000000000
+      internalID: -2624486864858765778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_4highlights3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 249
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7690862fd21da140800000000000000
+      internalID: 4732459533069227642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_yellowstar
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 91
+        width: 163
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b26c0286b2bd10800000000000000
+      internalID: 2139973442624205914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: select_LC_cheeks
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 410
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c781fd65aa3030800000000000000
+      internalID: 3475271954091983719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525778cb4405b4f948397f699f3a70fb, type: 3}
+  m_Name: BeaverPage
+  m_EditorClassIdentifier: 
+  ImageSize: 0.95
+  StartSprite: {fileID: 3323056982908720812, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+  PositionStartImage: {x: 0, y: 0, z: 10}
+  m_Arts:
+  - Sprite: {fileID: -8731313184747010026, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -2.08, y: -0.31, z: -5}
+    PositionUIImage: {x: -207.3, y: 0, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -4534232497991879843, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -1.23, y: -2.73, z: -5}
+    PositionUIImage: {x: -123.4, y: -243.4, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 4124350424984665196, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: 0.56, y: -3.23, z: -15}
+    PositionUIImage: {x: 56.2, y: -292.2, z: 15}
+    isShading: 1
+  - Sprite: {fileID: 4248392317328202433, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -0.65, y: -1.53, z: -15}
+    PositionUIImage: {x: -64.5, y: -121.5, z: 15}
+    isShading: 1
+  - Sprite: {fileID: -1715779768340241567, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: 0.4, y: -1.5, z: -10}
+    PositionUIImage: {x: 39.3, y: -118.7, z: 10}
+    isShading: 1
+  - Sprite: {fileID: 7343839507398747125, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: 3.22, y: -0.37, z: -5}
+    PositionUIImage: {x: 320.5, y: -5.3, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -8492606783659678554, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: 0, y: 1.33, z: -15}
+    PositionUIImage: {x: -2.9, y: 163, z: 15}
+    isShading: 1
+  - Sprite: {fileID: 2139986956485921912, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -1.7, y: -1.6, z: -5}
+    PositionUIImage: {x: -168.5, y: -128.7, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -7416430662718771751, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -3.73, y: 0.88, z: -10}
+    PositionUIImage: {x: -372.5, y: 118.5, z: 10}
+    isShading: 1
+  - Sprite: {fileID: -6165568124827926868, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -2.98, y: 0.86, z: -5}
+    PositionUIImage: {x: -298, y: 116, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 6739271263717151533, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -0.94, y: 2.33, z: -20}
+    PositionUIImage: {x: -92.8, y: 264.3, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 1952643890152911828, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: 0.33, y: 2.28, z: -20}
+    PositionUIImage: {x: 33.6, y: 257.6, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -762726812008220055, guid: c5f70ebb353cd3f449e0b161697e0446, type: 3}
+    PositionImage: {x: -0.73, y: 2.58, z: -5}
+    PositionUIImage: {x: -72.3, y: 287.5, z: 5}
+    isShading: 1

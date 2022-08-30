@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccb594d36a0eee54e9666ca6d87725dd, type: 3}
+  m_Name: Frog
+  m_EditorClassIdentifier: 
+  _coloringPrefab: {fileID: 1262861822072186113, guid: 2ff24b6023dccb94eb5f9b6522911e5a, type: 3}
+  _copyTexture2D: {fileID: 2800000, guid: b3403732cb779bf4daa6b82561230d4f, type: 3}
+  _itsFree: 0
+  _id: 6
+  _stickerReceived: 0
+  _itsColored: 0

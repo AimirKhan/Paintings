@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d19d48f6e1f421b81258117e425b2b0, type: 3}
+  m_Name: Marker
+  m_EditorClassIdentifier: 
+  _toolType: 3
+  _colorPartSprite: {fileID: -1457439562339727791, guid: deef95616c3bfe54b8d95ad12b8dc1fc, type: 3}
+  _stampil: {fileID: 21300000, guid: 2da59a2f73a79734d89b13eb60699523, type: 3}
+  _prefab: {fileID: 303230012401044633, guid: 996fee4c395d3ef4a817484b4b85e909, type: 3}

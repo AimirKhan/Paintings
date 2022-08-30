@@ -1,0 +1,22 @@
+{
+  "Language": "DEFAULT",
+  "LanguageName": "name",
+  "Phrases": [
+    "gamemode_name_1",
+    "gamemode_name_2",
+    "gamemode_name_3",
+    "gamemode_name_4",
+    "stickers_button",
+    "premium_button",
+    "premium_header",
+    "premium_monthly_button",
+    "premium_yearly_button",
+    "premium_discount_sticker",
+    "settings_sound",
+    "settings_music",
+    "settings_rate_us",
+    "settings_restore",
+	"age_restriction_header"
+  ],
+  "version": 1
+}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525778cb4405b4f948397f699f3a70fb, type: 3}
+  m_Name: CrayonPage
+  m_EditorClassIdentifier: 
+  ImageSize: 0.85
+  StartSprite: {fileID: 7867431016327227616, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+  PositionStartImage: {x: 0, y: 0, z: 10}
+  m_Arts:
+  - Sprite: {fileID: -4556021409863646803, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.5, y: 2.9, z: -20}
+    PositionUIImage: {x: -150, y: 322.5, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -2092358080080978966, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: 1.26, y: -1.47, z: -5}
+    PositionUIImage: {x: 126.8, y: -114.4, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -8245295859301449265, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: 2.63, y: -2.31, z: -5}
+    PositionUIImage: {x: 263, y: -200.2, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -7802401565052702969, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.49, y: -2.34, z: -20}
+    PositionUIImage: {x: -148.4, y: -202.1, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -5912170150587475190, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: 0.76, y: -4.38, z: -5}
+    PositionUIImage: {x: 75.3, y: -405, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 5838551815428819339, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -0.42, y: 0.16, z: -25}
+    PositionUIImage: {x: -41.7, y: 48.5, z: 25}
+    isShading: 0
+  - Sprite: {fileID: 5838551815428819339, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -2.08, y: 0.18, z: -25}
+    PositionUIImage: {x: -207.3, y: 49.9, z: 25}
+    isShading: 0
+  - Sprite: {fileID: -5424611737139844969, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -0.632, y: -0.01, z: -20}
+    PositionUIImage: {x: -229.9, y: 33, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -5424611737139844969, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -2.3, y: 0.02, z: -20}
+    PositionUIImage: {x: -64.6, y: 33, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 9051524356800926788, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.49, y: 1.87, z: -15}
+    PositionUIImage: {x: -148, y: 218.9, z: 15}
+    isShading: 1
+  - Sprite: {fileID: -6798366185103617610, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -0.77, y: -4.09, z: -5}
+    PositionUIImage: {x: -77.1, y: -374.5, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 5284549390710569316, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: 0.66, y: -2.73, z: -5}
+    PositionUIImage: {x: 65.5, y: -240.9, z: 5}
+    isShading: 1
+  - Sprite: {fileID: -2921795307238102809, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.49, y: -0.58, z: -15}
+    PositionUIImage: {x: -148, y: -24.2, z: 15}
+    isShading: 1
+  - Sprite: {fileID: 1475458961110301192, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.5, y: 1.22, z: -10}
+    PositionUIImage: {x: -148.4, y: 150.8, z: 10}
+    isShading: 1
+  - Sprite: {fileID: 5898408510783654497, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: -1.53, y: -3.04, z: -10}
+    PositionUIImage: {x: -152.8, y: -271, z: 10}
+    isShading: 1
+  - Sprite: {fileID: -1099106068107676336, guid: 6daa3419c5ed2c549a5351152d84f54e, type: 3}
+    PositionImage: {x: 2.38, y: -3.81, z: -5}
+    PositionUIImage: {x: 240.1, y: -348, z: 5}
+    isShading: 1

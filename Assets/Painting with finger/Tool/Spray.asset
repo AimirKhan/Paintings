@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d19d48f6e1f421b81258117e425b2b0, type: 3}
+  m_Name: Spray
+  m_EditorClassIdentifier: 
+  _toolType: 4
+  _colorPartSprite: {fileID: -7226976559609394282, guid: 04a3b6e9e7b367046a9050b66a9dbacb, type: 3}
+  _stampil: {fileID: 21300000, guid: 022c34f1bb507f2488e487074e5b2480, type: 3}
+  _prefab: {fileID: 4786140373887033104, guid: 97cef0b4032dd3547848df99a66be2d9, type: 3}

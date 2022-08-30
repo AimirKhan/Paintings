@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525778cb4405b4f948397f699f3a70fb, type: 3}
+  m_Name: HumsterPage
+  m_EditorClassIdentifier: 
+  ImageSize: 0.95
+  StartSprite: {fileID: 1560172487222104817, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+  PositionStartImage: {x: 0, y: 0, z: 10}
+  m_Arts:
+  - Sprite: {fileID: 8314942106354601011, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -1.14, y: 1.74, z: -25}
+    PositionUIImage: {x: -116, y: 201.7, z: 25}
+    isShading: 1
+  - Sprite: {fileID: -195074856128588774, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -1.99, y: 2.8, z: -30}
+    PositionUIImage: {x: -198.7, y: 308.1, z: 30}
+    isShading: 1
+  - Sprite: {fileID: -4806646522492547764, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 0.7, y: 3.35, z: -5}
+    PositionUIImage: {x: 69.5, y: 361.5, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 3578921243288599362, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -0.61, y: 1.06, z: -30}
+    PositionUIImage: {x: -60.7, y: 134.4, z: 30}
+    isShading: 1
+  - Sprite: {fileID: -5567803149812362528, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 1.81, y: 1.61, z: -30}
+    PositionUIImage: {x: 180.7, y: 189.6, z: 30}
+    isShading: 1
+  - Sprite: {fileID: -2138868679092672038, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 1.55, y: 1.96, z: -25}
+    PositionUIImage: {x: 154.8, y: 223, z: 25}
+    isShading: 1
+  - Sprite: {fileID: -8766998308825351457, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 1.32, y: 0.39, z: -30}
+    PositionUIImage: {x: 132.2, y: 66.9, z: 30}
+    isShading: 1
+  - Sprite: {fileID: 628313693978117784, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 2.74, y: -1.01, z: -30}
+    PositionUIImage: {x: 274.1, y: -72.3, z: 30}
+    isShading: 1
+  - Sprite: {fileID: 1295889105198143416, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 1.62, y: -0.75, z: -25}
+    PositionUIImage: {x: 162.4, y: -48.6, z: 25}
+    isShading: 1
+  - Sprite: {fileID: 5480511865443982483, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -3.86, y: -2.95, z: -5}
+    PositionUIImage: {x: -385.8, y: -267.3, z: 5}
+    isShading: 1
+  - Sprite: {fileID: 7005395603402457801, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -2.15, y: -2.47, z: -10}
+    PositionUIImage: {x: -214.8, y: -219.8, z: 10}
+    isShading: 1
+  - Sprite: {fileID: -4474763529498367390, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -0.7, y: -3.35, z: -20}
+    PositionUIImage: {x: -70.2, y: -306.5, z: 20}
+    isShading: 1
+  - Sprite: {fileID: -8605685003478615279, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 0.4, y: -2.24, z: -15}
+    PositionUIImage: {x: 39.6, y: -196.9, z: 15}
+    isShading: 1
+  - Sprite: {fileID: -7849245633605673479, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 0.14, y: 0.72, z: -20}
+    PositionUIImage: {x: 13.7, y: 101, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 8577486281072194065, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 3.63, y: -2.76, z: -20}
+    PositionUIImage: {x: 363, y: -246.9, z: 20}
+    isShading: 1
+  - Sprite: {fileID: 1327706553618875309, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: -0.66, y: 1.12, z: -35}
+    PositionUIImage: {x: -66.3, y: 140.5, z: 35}
+    isShading: 0
+  - Sprite: {fileID: -9150320926247298660, guid: 3e4fce03485144746ae04e47590c0698, type: 3}
+    PositionImage: {x: 1.69, y: 1.73, z: -35}
+    PositionUIImage: {x: 169.5, y: 200.9, z: 35}
+    isShading: 0

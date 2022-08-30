@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9596edf12c1a624986def8356594fe7, type: 3}
+  m_Name: 3_Paw
+  m_EditorClassIdentifier: 
+  figureName: Paw
+  figureSprite: {fileID: -8307559145062544625, guid: 8a9f1528211a27a4cb2ef843fa486cbb, type: 3}
+  m_ColoredFigureSprite: {fileID: 5503633584880229432, guid: 8a9f1528211a27a4cb2ef843fa486cbb, type: 3}
+  m_MascotSprite: {fileID: -5743167248159800596, guid: 1f12342faa7b70e4a9623afe17ab279e, type: 3}
+  figureId: 3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccb594d36a0eee54e9666ca6d87725dd, type: 3}
+  m_Name: Lion
+  m_EditorClassIdentifier: 
+  _coloringPrefab: {fileID: 1443235508074966691, guid: ae4f619ee60514b469a4a5fc3b69b458, type: 3}
+  _copyTexture2D: {fileID: 2800000, guid: 68ccc408eeb5d49409be8fe44a185d74, type: 3}
+  _itsFree: 0
+  _id: 10
+  _stickerReceived: 0
+  _itsColored: 0

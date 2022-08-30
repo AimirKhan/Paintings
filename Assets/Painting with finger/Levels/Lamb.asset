@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccb594d36a0eee54e9666ca6d87725dd, type: 3}
+  m_Name: Lamb
+  m_EditorClassIdentifier: 
+  _coloringPrefab: {fileID: 4766381013249463646, guid: 9552043ac2925ca4785013d04d6b2355, type: 3}
+  _copyTexture2D: {fileID: 2800000, guid: 1829f77312fdc654eb80ecd102eeec78, type: 3}
+  _itsFree: 0
+  _id: 9
+  _stickerReceived: 0
+  _itsColored: 0

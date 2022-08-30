@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa81fdd7ce376224cb60fcbc9b416e9a, type: 3}
+  m_Name: Palette
+  m_EditorClassIdentifier: 
+  _spriteActivated: {fileID: -2855914794393485841, guid: 5e06f2c1b15e8ff48aa033b193167dc3, type: 3}
+  _outterSprite: {fileID: -2373902881217569595, guid: fba2542b3c001c745b218f784c185d7a, type: 3}
+  _inactiveSprite: {fileID: -634778405368091517, guid: f6c414f64ef800740a80a135e65e2ce0, type: 3}
+  _colorsInnerNames:
+  - '#ffffff'
+  - '#a84804'
+  - '#c81318'
+  - '#f7442c'
+  - '#ff721a'
+  - '#ff9371'
+  - '#ffd427'
+  - '#a6c51a'
+  - '#24cc26'
+  - '#169854'
+  - '#15d8dc'
+  - '#28c8f0'
+  - '#1c76f8'
+  - '#9b92e6'
+  - '#856fce'
+  - '#e73d6b'
+  - '#323232'
+  - '#888a8d'
+  _colorsOutterName:
+  - '#d5dbe3'
+  - '#7c280b'
+  - '#a00a0e'
+  - '#c81318'
+  - '#ea3f04'
+  - '#e96b4e'
+  - '#f5ac1e'
+  - '#79af14'
+  - '#27aa48'
+  - '#047240'
+  - '#0cb3bd'
+  - '#129bd4'
+  - '#0e40ce'
+  - '#856fce'
+  - '#821dd3'
+  - '#cc1e4d'
+  - '#000000'
+  - '#696a6b'
+  _colorPrefab: {fileID: 1914704605733556371, guid: 3b1d294cb68b88645bd01b937f7ef5dc, type: 3}

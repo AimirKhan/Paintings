@@ -1,0 +1,1311 @@
+fileFormatVersion: 2
+guid: dff7789387dc1e04192ee7c747f2e87f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5249762075863780043
+    second: deer_0
+  - first:
+      213: 8853832997727273734
+    second: deer_1
+  - first:
+      213: -248245607904806026
+    second: deer_2
+  - first:
+      213: -4218701818960387970
+    second: deer_3
+  - first:
+      213: 6813569619805752045
+    second: deer_4
+  - first:
+      213: -1371380871901209846
+    second: deer_5
+  - first:
+      213: -504313772158655925
+    second: deer_6
+  - first:
+      213: -2677298837976710807
+    second: deer_7
+  - first:
+      213: 4829498834862665430
+    second: deer_8
+  - first:
+      213: -2124072206746684474
+    second: deer_9
+  - first:
+      213: -8195952979083742673
+    second: deer_10
+  - first:
+      213: -7187176548888794517
+    second: deer_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deer_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 920
+        width: 828
+        height: 1040
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53572d8d4391527b0800000000000000
+      internalID: -5249762075863780043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1722
+        width: 248
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -119}
+        - {x: 14, y: -113}
+        - {x: 18, y: -109}
+        - {x: 22, y: -101}
+        - {x: 32, y: -89}
+        - {x: 32, y: -87}
+        - {x: 54, y: -65}
+        - {x: 56, y: -65}
+        - {x: 76, y: -47}
+        - {x: 78, y: -47}
+        - {x: 94, y: -35}
+        - {x: 102, y: -33}
+        - {x: 106, y: -29}
+        - {x: 124, y: -19}
+        - {x: 124, y: -9}
+        - {x: 120, y: 1}
+        - {x: 112, y: 9}
+        - {x: 110, y: 15}
+        - {x: 100, y: 29}
+        - {x: 96, y: 37}
+        - {x: 86, y: 47}
+        - {x: 80, y: 49}
+        - {x: 70, y: 49}
+        - {x: 68, y: 51}
+        - {x: 62, y: 51}
+        - {x: 56, y: 55}
+        - {x: 44, y: 67}
+        - {x: 40, y: 73}
+        - {x: 40, y: 79}
+        - {x: 38, y: 81}
+        - {x: 38, y: 91}
+        - {x: 30, y: 101}
+        - {x: 18, y: 107}
+        - {x: 14, y: 111}
+        - {x: -12, y: 123}
+        - {x: -16, y: 123}
+        - {x: -18, y: 125}
+        - {x: -22, y: 125}
+        - {x: -24, y: 127}
+        - {x: -28, y: 127}
+        - {x: -36, y: 131}
+        - {x: -52, y: 133}
+        - {x: -54, y: 135}
+        - {x: -100, y: 135}
+        - {x: -108, y: 133}
+        - {x: -118, y: 125}
+        - {x: -122, y: 115}
+        - {x: -122, y: 111}
+        - {x: -124, y: 109}
+        - {x: -124, y: 43}
+        - {x: -122, y: 41}
+        - {x: -122, y: 33}
+        - {x: -120, y: 31}
+        - {x: -120, y: 23}
+        - {x: -118, y: 21}
+        - {x: -118, y: 13}
+        - {x: -116, y: 11}
+        - {x: -116, y: 5}
+        - {x: -114, y: 3}
+        - {x: -112, y: -11}
+        - {x: -108, y: -19}
+        - {x: -108, y: -25}
+        - {x: -106, y: -27}
+        - {x: -106, y: -31}
+        - {x: -104, y: -33}
+        - {x: -104, y: -37}
+        - {x: -102, y: -39}
+        - {x: -102, y: -43}
+        - {x: -100, y: -45}
+        - {x: -100, y: -49}
+        - {x: -98, y: -51}
+        - {x: -94, y: -67}
+        - {x: -80, y: -97}
+        - {x: -62, y: -113}
+        - {x: -60, y: -113}
+        - {x: -52, y: -121}
+        - {x: -34, y: -129}
+        - {x: -30, y: -129}
+        - {x: -22, y: -133}
+        - {x: -16, y: -133}
+        - {x: -14, y: -135}
+        - {x: -2, y: -135}
+        - {x: 4, y: -129}
+        - {x: 4, y: -127}
+        - {x: 8, y: -125}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6038a2aa3322fda70800000000000000
+      internalID: 8853832997727273734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_2
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1738
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 48, y: -116}
+        - {x: 54, y: -116}
+        - {x: 56, y: -114}
+        - {x: 64, y: -114}
+        - {x: 66, y: -112}
+        - {x: 82, y: -110}
+        - {x: 84, y: -108}
+        - {x: 94, y: -108}
+        - {x: 100, y: -104}
+        - {x: 100, y: -84}
+        - {x: 98, y: -82}
+        - {x: 96, y: -54}
+        - {x: 94, y: -52}
+        - {x: 92, y: -24}
+        - {x: 90, y: -22}
+        - {x: 88, y: 6}
+        - {x: 86, y: 8}
+        - {x: 84, y: 38}
+        - {x: 82, y: 40}
+        - {x: 82, y: 52}
+        - {x: 80, y: 54}
+        - {x: 78, y: 84}
+        - {x: 76, y: 86}
+        - {x: 76, y: 94}
+        - {x: 72, y: 104}
+        - {x: 62, y: 114}
+        - {x: 60, y: 114}
+        - {x: 58, y: 118}
+        - {x: 48, y: 122}
+        - {x: 30, y: 122}
+        - {x: 18, y: 120}
+        - {x: 4, y: 110}
+        - {x: -4, y: 92}
+        - {x: -4, y: 66}
+        - {x: -2, y: 64}
+        - {x: 0, y: 36}
+        - {x: 2, y: 34}
+        - {x: 2, y: 22}
+        - {x: 4, y: 20}
+        - {x: 4, y: 4}
+        - {x: 2, y: 2}
+        - {x: -18, y: 2}
+        - {x: -20, y: 4}
+        - {x: -70, y: 6}
+        - {x: -72, y: 4}
+        - {x: -80, y: 2}
+        - {x: -84, y: -2}
+        - {x: -86, y: -2}
+        - {x: -96, y: -10}
+        - {x: -100, y: -20}
+        - {x: -100, y: -46}
+        - {x: -98, y: -54}
+        - {x: -84, y: -70}
+        - {x: -74, y: -74}
+        - {x: -68, y: -74}
+        - {x: -66, y: -76}
+        - {x: -44, y: -76}
+        - {x: -42, y: -78}
+        - {x: -20, y: -78}
+        - {x: -18, y: -80}
+        - {x: 6, y: -80}
+        - {x: 8, y: -82}
+        - {x: 14, y: -82}
+        - {x: 16, y: -84}
+        - {x: 16, y: -88}
+        - {x: 18, y: -90}
+        - {x: 18, y: -100}
+        - {x: 20, y: -102}
+        - {x: 20, y: -116}
+        - {x: 24, y: -122}
+        - {x: 34, y: -122}
+        - {x: 40, y: -120}
+        - {x: 42, y: -118}
+        - {x: 46, y: -118}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 67b78c35fed0e8cf0800000000000000
+      internalID: -248245607904806026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1738
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -90}
+        - {x: -16, y: -88}
+        - {x: -16, y: -84}
+        - {x: -14, y: -82}
+        - {x: -8, y: -82}
+        - {x: -6, y: -80}
+        - {x: 18, y: -80}
+        - {x: 20, y: -78}
+        - {x: 42, y: -78}
+        - {x: 44, y: -76}
+        - {x: 66, y: -76}
+        - {x: 68, y: -74}
+        - {x: 74, y: -74}
+        - {x: 84, y: -70}
+        - {x: 98, y: -54}
+        - {x: 100, y: -46}
+        - {x: 100, y: -20}
+        - {x: 96, y: -10}
+        - {x: 88, y: -2}
+        - {x: 70, y: 6}
+        - {x: 46, y: 6}
+        - {x: 44, y: 4}
+        - {x: 20, y: 4}
+        - {x: 18, y: 2}
+        - {x: -2, y: 2}
+        - {x: -4, y: 4}
+        - {x: -4, y: 20}
+        - {x: -2, y: 22}
+        - {x: 0, y: 50}
+        - {x: 2, y: 52}
+        - {x: 2, y: 64}
+        - {x: 4, y: 66}
+        - {x: 4, y: 92}
+        - {x: 2, y: 94}
+        - {x: 0, y: 102}
+        - {x: -10, y: 116}
+        - {x: -24, y: 122}
+        - {x: -48, y: 122}
+        - {x: -58, y: 118}
+        - {x: -68, y: 108}
+        - {x: -68, y: 106}
+        - {x: -72, y: 104}
+        - {x: -76, y: 94}
+        - {x: -76, y: 86}
+        - {x: -78, y: 84}
+        - {x: -80, y: 54}
+        - {x: -82, y: 52}
+        - {x: -82, y: 40}
+        - {x: -84, y: 38}
+        - {x: -86, y: 8}
+        - {x: -88, y: 6}
+        - {x: -90, y: -22}
+        - {x: -92, y: -24}
+        - {x: -94, y: -52}
+        - {x: -96, y: -54}
+        - {x: -96, y: -66}
+        - {x: -98, y: -68}
+        - {x: -98, y: -82}
+        - {x: -100, y: -84}
+        - {x: -100, y: -104}
+        - {x: -94, y: -108}
+        - {x: -84, y: -108}
+        - {x: -82, y: -110}
+        - {x: -74, y: -110}
+        - {x: -72, y: -112}
+        - {x: -66, y: -112}
+        - {x: -64, y: -114}
+        - {x: -48, y: -116}
+        - {x: -46, y: -118}
+        - {x: -42, y: -118}
+        - {x: -40, y: -120}
+        - {x: -36, y: -120}
+        - {x: -32, y: -122}
+        - {x: -22, y: -122}
+        - {x: -20, y: -116}
+        - {x: -20, y: -104}
+        - {x: -18, y: -102}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e70629b1c092475c0800000000000000
+      internalID: -4218701818960387970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_4
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1718
+        width: 248
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: -129}
+        - {x: 52, y: -121}
+        - {x: 56, y: -117}
+        - {x: 64, y: -113}
+        - {x: 80, y: -97}
+        - {x: 94, y: -67}
+        - {x: 94, y: -63}
+        - {x: 96, y: -61}
+        - {x: 96, y: -57}
+        - {x: 98, y: -55}
+        - {x: 98, y: -51}
+        - {x: 100, y: -49}
+        - {x: 100, y: -45}
+        - {x: 102, y: -43}
+        - {x: 102, y: -39}
+        - {x: 104, y: -37}
+        - {x: 104, y: -33}
+        - {x: 108, y: -25}
+        - {x: 108, y: -19}
+        - {x: 112, y: -11}
+        - {x: 112, y: -5}
+        - {x: 114, y: -3}
+        - {x: 114, y: 3}
+        - {x: 116, y: 5}
+        - {x: 116, y: 11}
+        - {x: 118, y: 13}
+        - {x: 118, y: 21}
+        - {x: 120, y: 23}
+        - {x: 120, y: 31}
+        - {x: 122, y: 33}
+        - {x: 122, y: 41}
+        - {x: 124, y: 43}
+        - {x: 124, y: 109}
+        - {x: 122, y: 111}
+        - {x: 122, y: 115}
+        - {x: 118, y: 125}
+        - {x: 108, y: 133}
+        - {x: 100, y: 135}
+        - {x: 54, y: 135}
+        - {x: 52, y: 133}
+        - {x: 36, y: 131}
+        - {x: 34, y: 129}
+        - {x: 30, y: 129}
+        - {x: 28, y: 127}
+        - {x: 12, y: 123}
+        - {x: -14, y: 111}
+        - {x: -18, y: 107}
+        - {x: -22, y: 105}
+        - {x: -40, y: 91}
+        - {x: -40, y: 73}
+        - {x: -44, y: 67}
+        - {x: -52, y: 57}
+        - {x: -54, y: 57}
+        - {x: -58, y: 53}
+        - {x: -62, y: 53}
+        - {x: -70, y: 49}
+        - {x: -82, y: 49}
+        - {x: -94, y: 37}
+        - {x: -94, y: 35}
+        - {x: -106, y: 23}
+        - {x: -112, y: 11}
+        - {x: -120, y: 1}
+        - {x: -124, y: -9}
+        - {x: -124, y: -19}
+        - {x: -106, y: -29}
+        - {x: -102, y: -33}
+        - {x: -96, y: -35}
+        - {x: -90, y: -39}
+        - {x: -86, y: -43}
+        - {x: -78, y: -47}
+        - {x: -56, y: -65}
+        - {x: -54, y: -65}
+        - {x: -32, y: -87}
+        - {x: -32, y: -89}
+        - {x: -22, y: -99}
+        - {x: -22, y: -101}
+        - {x: -10, y: -117}
+        - {x: -8, y: -123}
+        - {x: 2, y: -135}
+        - {x: 14, y: -135}
+        - {x: 16, y: -133}
+        - {x: 22, y: -133}
+        - {x: 24, y: -131}
+      tessellationDetail: 1
+      bones: []
+      spriteID: dea4ae82879ae8e50800000000000000
+      internalID: 6813569619805752045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1196
+        width: 182
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -74}
+        - {x: 37, y: -72}
+        - {x: 47, y: -70}
+        - {x: 65, y: -62}
+        - {x: 83, y: -42}
+        - {x: 83, y: -40}
+        - {x: 89, y: -32}
+        - {x: 89, y: -28}
+        - {x: 91, y: -24}
+        - {x: 91, y: 6}
+        - {x: 89, y: 18}
+        - {x: 85, y: 28}
+        - {x: 81, y: 32}
+        - {x: 79, y: 38}
+        - {x: 75, y: 40}
+        - {x: 75, y: 42}
+        - {x: 51, y: 66}
+        - {x: 37, y: 72}
+        - {x: 33, y: 72}
+        - {x: 25, y: 76}
+        - {x: -25, y: 76}
+        - {x: -37, y: 70}
+        - {x: -41, y: 70}
+        - {x: -47, y: 66}
+        - {x: -53, y: 64}
+        - {x: -57, y: 58}
+        - {x: -59, y: 58}
+        - {x: -71, y: 46}
+        - {x: -71, y: 44}
+        - {x: -77, y: 40}
+        - {x: -79, y: 34}
+        - {x: -83, y: 30}
+        - {x: -87, y: 20}
+        - {x: -87, y: 16}
+        - {x: -91, y: 8}
+        - {x: -91, y: -24}
+        - {x: -89, y: -26}
+        - {x: -89, y: -30}
+        - {x: -85, y: -40}
+        - {x: -81, y: -42}
+        - {x: -81, y: -44}
+        - {x: -67, y: -58}
+        - {x: -65, y: -58}
+        - {x: -61, y: -64}
+        - {x: -47, y: -70}
+        - {x: -43, y: -70}
+        - {x: -35, y: -74}
+        - {x: -27, y: -74}
+        - {x: -25, y: -76}
+        - {x: 27, y: -76}
+        - {x: 29, y: -74}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a0b1096ec50e7fce0800000000000000
+      internalID: -1371380871901209846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1202
+        width: 632
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 72, y: -246}
+        - {x: 74, y: -244}
+        - {x: 84, y: -244}
+        - {x: 86, y: -242}
+        - {x: 96, y: -242}
+        - {x: 98, y: -240}
+        - {x: 116, y: -238}
+        - {x: 118, y: -236}
+        - {x: 124, y: -236}
+        - {x: 132, y: -232}
+        - {x: 138, y: -232}
+        - {x: 140, y: -230}
+        - {x: 144, y: -230}
+        - {x: 146, y: -228}
+        - {x: 150, y: -228}
+        - {x: 152, y: -226}
+        - {x: 168, y: -222}
+        - {x: 188, y: -212}
+        - {x: 192, y: -212}
+        - {x: 202, y: -208}
+        - {x: 206, y: -204}
+        - {x: 216, y: -200}
+        - {x: 220, y: -196}
+        - {x: 224, y: -194}
+        - {x: 236, y: -184}
+        - {x: 238, y: -184}
+        - {x: 246, y: -176}
+        - {x: 248, y: -176}
+        - {x: 272, y: -152}
+        - {x: 272, y: -150}
+        - {x: 280, y: -142}
+        - {x: 280, y: -140}
+        - {x: 286, y: -136}
+        - {x: 288, y: -130}
+        - {x: 292, y: -126}
+        - {x: 304, y: -100}
+        - {x: 304, y: -96}
+        - {x: 306, y: -94}
+        - {x: 306, y: -90}
+        - {x: 310, y: -82}
+        - {x: 310, y: -76}
+        - {x: 312, y: -74}
+        - {x: 312, y: -68}
+        - {x: 314, y: -66}
+        - {x: 314, y: -56}
+        - {x: 316, y: -54}
+        - {x: 316, y: 16}
+        - {x: 314, y: 18}
+        - {x: 314, y: 28}
+        - {x: 312, y: 30}
+        - {x: 310, y: 44}
+        - {x: 308, y: 46}
+        - {x: 306, y: 58}
+        - {x: 304, y: 60}
+        - {x: 302, y: 70}
+        - {x: 298, y: 76}
+        - {x: 298, y: 80}
+        - {x: 286, y: 106}
+        - {x: 282, y: 110}
+        - {x: 280, y: 114}
+        - {x: 270, y: 126}
+        - {x: 270, y: 128}
+        - {x: 262, y: 136}
+        - {x: 262, y: 138}
+        - {x: 226, y: 174}
+        - {x: 224, y: 174}
+        - {x: 208, y: 188}
+        - {x: 206, y: 188}
+        - {x: 196, y: 196}
+        - {x: 192, y: 198}
+        - {x: 188, y: 202}
+        - {x: 182, y: 204}
+        - {x: 178, y: 208}
+        - {x: 156, y: 218}
+        - {x: 152, y: 218}
+        - {x: 142, y: 224}
+        - {x: 138, y: 224}
+        - {x: 132, y: 228}
+        - {x: 128, y: 228}
+        - {x: 126, y: 230}
+        - {x: 122, y: 230}
+        - {x: 120, y: 232}
+        - {x: 116, y: 232}
+        - {x: 108, y: 236}
+        - {x: 102, y: 236}
+        - {x: 100, y: 238}
+        - {x: 94, y: 238}
+        - {x: 92, y: 240}
+        - {x: 86, y: 240}
+        - {x: 84, y: 242}
+        - {x: 76, y: 242}
+        - {x: 74, y: 244}
+        - {x: 66, y: 244}
+        - {x: 64, y: 246}
+        - {x: 52, y: 246}
+        - {x: 50, y: 248}
+        - {x: -52, y: 248}
+        - {x: -54, y: 246}
+        - {x: -64, y: 246}
+        - {x: -66, y: 244}
+        - {x: -86, y: 242}
+        - {x: -88, y: 240}
+        - {x: -102, y: 238}
+        - {x: -108, y: 236}
+        - {x: -116, y: 232}
+        - {x: -122, y: 232}
+        - {x: -128, y: 228}
+        - {x: -132, y: 228}
+        - {x: -144, y: 222}
+        - {x: -148, y: 222}
+        - {x: -186, y: 204}
+        - {x: -190, y: 200}
+        - {x: -196, y: 198}
+        - {x: -200, y: 194}
+        - {x: -208, y: 190}
+        - {x: -212, y: 184}
+        - {x: -214, y: 184}
+        - {x: -220, y: 178}
+        - {x: -222, y: 178}
+        - {x: -232, y: 168}
+        - {x: -234, y: 168}
+        - {x: -258, y: 144}
+        - {x: -258, y: 142}
+        - {x: -268, y: 132}
+        - {x: -268, y: 130}
+        - {x: -274, y: 124}
+        - {x: -274, y: 122}
+        - {x: -286, y: 108}
+        - {x: -300, y: 78}
+        - {x: -300, y: 74}
+        - {x: -302, y: 72}
+        - {x: -302, y: 68}
+        - {x: -304, y: 66}
+        - {x: -304, y: 62}
+        - {x: -308, y: 54}
+        - {x: -308, y: 48}
+        - {x: -310, y: 46}
+        - {x: -310, y: 40}
+        - {x: -312, y: 38}
+        - {x: -312, y: 30}
+        - {x: -314, y: 28}
+        - {x: -314, y: 18}
+        - {x: -316, y: 16}
+        - {x: -316, y: -54}
+        - {x: -314, y: -56}
+        - {x: -314, y: -66}
+        - {x: -312, y: -68}
+        - {x: -312, y: -74}
+        - {x: -310, y: -76}
+        - {x: -310, y: -82}
+        - {x: -308, y: -84}
+        - {x: -304, y: -100}
+        - {x: -292, y: -126}
+        - {x: -288, y: -130}
+        - {x: -286, y: -136}
+        - {x: -280, y: -140}
+        - {x: -280, y: -142}
+        - {x: -274, y: -148}
+        - {x: -274, y: -150}
+        - {x: -248, y: -176}
+        - {x: -246, y: -176}
+        - {x: -238, y: -184}
+        - {x: -236, y: -184}
+        - {x: -224, y: -194}
+        - {x: -220, y: -196}
+        - {x: -216, y: -200}
+        - {x: -182, y: -216}
+        - {x: -178, y: -216}
+        - {x: -172, y: -220}
+        - {x: -168, y: -220}
+        - {x: -162, y: -224}
+        - {x: -158, y: -224}
+        - {x: -156, y: -226}
+        - {x: -152, y: -226}
+        - {x: -144, y: -230}
+        - {x: -138, y: -230}
+        - {x: -130, y: -234}
+        - {x: -114, y: -236}
+        - {x: -112, y: -238}
+        - {x: -106, y: -238}
+        - {x: -104, y: -240}
+        - {x: -82, y: -242}
+        - {x: -80, y: -244}
+        - {x: -68, y: -244}
+        - {x: -66, y: -246}
+        - {x: -48, y: -246}
+        - {x: -46, y: -248}
+        - {x: 54, y: -248}
+        - {x: 56, y: -246}
+      - - {x: -32, y: -174}
+        - {x: -34, y: -172}
+        - {x: -50, y: -168}
+        - {x: -60, y: -162}
+        - {x: -66, y: -158}
+        - {x: -68, y: -158}
+        - {x: -74, y: -150}
+        - {x: -86, y: -128}
+        - {x: -86, y: -100}
+        - {x: -84, y: -98}
+        - {x: -84, y: -94}
+        - {x: -72, y: -72}
+        - {x: -62, y: -58}
+        - {x: -60, y: -58}
+        - {x: -46, y: -48}
+        - {x: -40, y: -44}
+        - {x: -30, y: -42}
+        - {x: -22, y: -40}
+        - {x: -20, y: -38}
+        - {x: 16, y: -38}
+        - {x: 18, y: -40}
+        - {x: 30, y: -42}
+        - {x: 44, y: -50}
+        - {x: 50, y: -54}
+        - {x: 52, y: -54}
+        - {x: 64, y: -68}
+        - {x: 80, y: -98}
+        - {x: 80, y: -104}
+        - {x: 82, y: -106}
+        - {x: 82, y: -124}
+        - {x: 80, y: -126}
+        - {x: 80, y: -132}
+        - {x: 72, y: -146}
+        - {x: 60, y: -160}
+        - {x: 58, y: -160}
+        - {x: 50, y: -166}
+        - {x: 46, y: -166}
+        - {x: 40, y: -170}
+        - {x: 28, y: -172}
+        - {x: 26, y: -174}
+        - {x: 16, y: -174}
+        - {x: 14, y: -176}
+        - {x: -20, y: -176}
+        - {x: -22, y: -174}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b426523db415009f0800000000000000
+      internalID: -504313772158655925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_7
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 936
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 43, y: -101}
+        - {x: 45, y: -101}
+        - {x: 63, y: -85}
+        - {x: 69, y: -71}
+        - {x: 69, y: -39}
+        - {x: 65, y: -29}
+        - {x: 53, y: -17}
+        - {x: 53, y: -15}
+        - {x: 43, y: -5}
+        - {x: 41, y: -5}
+        - {x: 19, y: 17}
+        - {x: 19, y: 19}
+        - {x: 11, y: 31}
+        - {x: 11, y: 37}
+        - {x: 9, y: 39}
+        - {x: 9, y: 55}
+        - {x: 13, y: 63}
+        - {x: 15, y: 85}
+        - {x: 13, y: 87}
+        - {x: 13, y: 97}
+        - {x: 7, y: 105}
+        - {x: -1, y: 105}
+        - {x: -3, y: 107}
+        - {x: -11, y: 107}
+        - {x: -15, y: 109}
+        - {x: -29, y: 109}
+        - {x: -35, y: 103}
+        - {x: -35, y: 101}
+        - {x: -47, y: 87}
+        - {x: -59, y: 61}
+        - {x: -59, y: 57}
+        - {x: -61, y: 55}
+        - {x: -61, y: 51}
+        - {x: -65, y: 43}
+        - {x: -65, y: 37}
+        - {x: -67, y: 35}
+        - {x: -67, y: 29}
+        - {x: -69, y: 27}
+        - {x: -69, y: -39}
+        - {x: -67, y: -41}
+        - {x: -63, y: -57}
+        - {x: -57, y: -71}
+        - {x: -53, y: -73}
+        - {x: -53, y: -75}
+        - {x: -33, y: -95}
+        - {x: -31, y: -95}
+        - {x: -29, y: -99}
+        - {x: -11, y: -107}
+        - {x: 1, y: -109}
+        - {x: 31, y: -109}
+        - {x: 41, y: -105}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 96105dc44e258dad0800000000000000
+      internalID: -2677298837976710807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 918
+        width: 212
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 50, y: -120}
+        - {x: 52, y: -118}
+        - {x: 62, y: -116}
+        - {x: 68, y: -112}
+        - {x: 72, y: -112}
+        - {x: 86, y: -106}
+        - {x: 90, y: -102}
+        - {x: 98, y: -98}
+        - {x: 106, y: -88}
+        - {x: 106, y: -84}
+        - {x: 100, y: -82}
+        - {x: 98, y: -84}
+        - {x: 90, y: -84}
+        - {x: 88, y: -82}
+        - {x: 76, y: -80}
+        - {x: 68, y: -74}
+        - {x: 62, y: -70}
+        - {x: 60, y: -70}
+        - {x: 52, y: -60}
+        - {x: 46, y: -50}
+        - {x: 46, y: -46}
+        - {x: 44, y: -44}
+        - {x: 44, y: -26}
+        - {x: 50, y: -14}
+        - {x: 50, y: -10}
+        - {x: 54, y: -6}
+        - {x: 54, y: -4}
+        - {x: 100, y: 40}
+        - {x: 104, y: 50}
+        - {x: 104, y: 82}
+        - {x: 102, y: 84}
+        - {x: 102, y: 94}
+        - {x: 100, y: 96}
+        - {x: 100, y: 110}
+        - {x: 102, y: 112}
+        - {x: 102, y: 118}
+        - {x: 104, y: 122}
+        - {x: 102, y: 124}
+        - {x: 82, y: 124}
+        - {x: 80, y: 122}
+        - {x: 52, y: 120}
+        - {x: 50, y: 118}
+        - {x: 28, y: 118}
+        - {x: 26, y: 116}
+        - {x: -28, y: 116}
+        - {x: -30, y: 118}
+        - {x: -52, y: 118}
+        - {x: -54, y: 120}
+        - {x: -68, y: 120}
+        - {x: -70, y: 122}
+        - {x: -94, y: 124}
+        - {x: -98, y: 120}
+        - {x: -96, y: 116}
+        - {x: -96, y: 90}
+        - {x: -98, y: 88}
+        - {x: -98, y: 80}
+        - {x: -100, y: 78}
+        - {x: -100, y: 72}
+        - {x: -102, y: 70}
+        - {x: -102, y: 60}
+        - {x: -100, y: 58}
+        - {x: -100, y: 52}
+        - {x: -96, y: 42}
+        - {x: -90, y: 38}
+        - {x: -90, y: 36}
+        - {x: -62, y: 8}
+        - {x: -60, y: 8}
+        - {x: -48, y: -8}
+        - {x: -40, y: -22}
+        - {x: -40, y: -28}
+        - {x: -38, y: -30}
+        - {x: -38, y: -42}
+        - {x: -40, y: -44}
+        - {x: -42, y: -54}
+        - {x: -54, y: -70}
+        - {x: -56, y: -70}
+        - {x: -64, y: -76}
+        - {x: -70, y: -80}
+        - {x: -82, y: -82}
+        - {x: -84, y: -84}
+        - {x: -100, y: -84}
+        - {x: -104, y: -88}
+        - {x: -104, y: -92}
+        - {x: -98, y: -98}
+        - {x: -96, y: -98}
+        - {x: -92, y: -104}
+        - {x: -70, y: -114}
+        - {x: -66, y: -114}
+        - {x: -60, y: -118}
+        - {x: -48, y: -120}
+        - {x: -46, y: -122}
+        - {x: -38, y: -122}
+        - {x: -36, y: -124}
+        - {x: 34, y: -124}
+        - {x: 36, y: -122}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6dee62f3a93d50340800000000000000
+      internalID: 4829498834862665430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_9
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 942
+        width: 138
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 49, y: -80}
+        - {x: 49, y: -78}
+        - {x: 55, y: -74}
+        - {x: 57, y: -68}
+        - {x: 61, y: -62}
+        - {x: 61, y: -58}
+        - {x: 65, y: -52}
+        - {x: 67, y: -40}
+        - {x: 69, y: -38}
+        - {x: 69, y: 16}
+        - {x: 67, y: 36}
+        - {x: 63, y: 44}
+        - {x: 63, y: 50}
+        - {x: 55, y: 66}
+        - {x: 55, y: 70}
+        - {x: 51, y: 80}
+        - {x: 47, y: 84}
+        - {x: 45, y: 88}
+        - {x: 37, y: 98}
+        - {x: 37, y: 100}
+        - {x: 27, y: 110}
+        - {x: 11, y: 110}
+        - {x: 9, y: 108}
+        - {x: 1, y: 108}
+        - {x: -1, y: 106}
+        - {x: -7, y: 106}
+        - {x: -11, y: 104}
+        - {x: -13, y: 98}
+        - {x: -13, y: 88}
+        - {x: -15, y: 86}
+        - {x: -15, y: 76}
+        - {x: -13, y: 74}
+        - {x: -13, y: 64}
+        - {x: -11, y: 62}
+        - {x: -11, y: 56}
+        - {x: -9, y: 54}
+        - {x: -9, y: 38}
+        - {x: -11, y: 36}
+        - {x: -11, y: 32}
+        - {x: -17, y: 22}
+        - {x: -31, y: 4}
+        - {x: -33, y: 4}
+        - {x: -59, y: -22}
+        - {x: -59, y: -24}
+        - {x: -63, y: -26}
+        - {x: -69, y: -40}
+        - {x: -69, y: -72}
+        - {x: -65, y: -82}
+        - {x: -49, y: -98}
+        - {x: -47, y: -98}
+        - {x: -43, y: -102}
+        - {x: -41, y: -102}
+        - {x: -33, y: -108}
+        - {x: -21, y: -110}
+        - {x: 1, y: -110}
+        - {x: 3, y: -108}
+        - {x: 13, y: -106}
+        - {x: 31, y: -98}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6c3759fe497c582e0800000000000000
+      internalID: -2124072206746684474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_10
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 744
+        width: 122
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -48}
+        - {x: 35, y: -46}
+        - {x: 41, y: -42}
+        - {x: 43, y: -34}
+        - {x: 49, y: -26}
+        - {x: 49, y: -22}
+        - {x: 59, y: -2}
+        - {x: 61, y: 6}
+        - {x: 61, y: 16}
+        - {x: 55, y: 20}
+        - {x: 47, y: 20}
+        - {x: 45, y: 22}
+        - {x: 39, y: 22}
+        - {x: 37, y: 24}
+        - {x: 21, y: 28}
+        - {x: 11, y: 34}
+        - {x: -5, y: 44}
+        - {x: -5, y: 46}
+        - {x: -11, y: 52}
+        - {x: -19, y: 54}
+        - {x: -33, y: 62}
+        - {x: -37, y: 66}
+        - {x: -43, y: 68}
+        - {x: -49, y: 68}
+        - {x: -51, y: 66}
+        - {x: -51, y: 60}
+        - {x: -53, y: 58}
+        - {x: -53, y: 50}
+        - {x: -55, y: 48}
+        - {x: -55, y: 40}
+        - {x: -57, y: 38}
+        - {x: -57, y: 28}
+        - {x: -59, y: 26}
+        - {x: -59, y: 16}
+        - {x: -61, y: 14}
+        - {x: -61, y: -40}
+        - {x: -59, y: -46}
+        - {x: -55, y: -56}
+        - {x: -49, y: -60}
+        - {x: -47, y: -60}
+        - {x: -39, y: -66}
+        - {x: -27, y: -68}
+        - {x: 11, y: -68}
+        - {x: 21, y: -64}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f22b8e58030224e80800000000000000
+      internalID: -8195952979083742673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer_11
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 744
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 57, y: -55}
+        - {x: 61, y: -45}
+        - {x: 61, y: 19}
+        - {x: 59, y: 21}
+        - {x: 59, y: 31}
+        - {x: 57, y: 33}
+        - {x: 57, y: 41}
+        - {x: 55, y: 43}
+        - {x: 53, y: 61}
+        - {x: 47, y: 69}
+        - {x: 35, y: 65}
+        - {x: 31, y: 61}
+        - {x: 25, y: 57}
+        - {x: 9, y: 53}
+        - {x: -1, y: 43}
+        - {x: -3, y: 43}
+        - {x: -9, y: 39}
+        - {x: -15, y: 37}
+        - {x: -19, y: 33}
+        - {x: -25, y: 29}
+        - {x: -29, y: 29}
+        - {x: -35, y: 25}
+        - {x: -39, y: 25}
+        - {x: -45, y: 21}
+        - {x: -51, y: 21}
+        - {x: -61, y: 17}
+        - {x: -61, y: 7}
+        - {x: -59, y: 5}
+        - {x: -55, y: -11}
+        - {x: -49, y: -21}
+        - {x: -49, y: -25}
+        - {x: -43, y: -35}
+        - {x: -37, y: -47}
+        - {x: -29, y: -55}
+        - {x: -27, y: -59}
+        - {x: -23, y: -59}
+        - {x: -19, y: -65}
+        - {x: -9, y: -69}
+        - {x: 35, y: -69}
+        - {x: 49, y: -63}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b6a27711205024c90800000000000000
+      internalID: -7187176548888794517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

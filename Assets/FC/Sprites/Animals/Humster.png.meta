@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 3e4fce03485144746ae04e47590c0698
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2106609708477215566
+    second: parted_humster_2_0
+  - first:
+      213: 5539683537578857484
+    second: parted_humster_2_1
+  - first:
+      213: 8059195345159443736
+    second: parted_humster_2_2
+  - first:
+      213: 7847540051466903523
+    second: parted_humster_2_3
+  - first:
+      213: 2002778047050181619
+    second: parted_humster_2_4
+  - first:
+      213: 3080991085870862398
+    second: parted_humster_2_5
+  - first:
+      213: 6500446102293405023
+    second: parted_humster_2_6
+  - first:
+      213: 3847734484297907314
+    second: parted_humster_2_7
+  - first:
+      213: 8902940444173666591
+    second: parted_humster_2_8
+  - first:
+      213: 6348163959677266902
+    second: parted_humster_2_9
+  - first:
+      213: -1911506318559881196
+    second: parted_humster_2_10
+  - first:
+      213: -7658579251588868489
+    second: parted_humster_2_11
+  - first:
+      213: -4556326911827061916
+    second: parted_humster_2_12
+  - first:
+      213: -5859715181442338423
+    second: parted_humster_2_13
+  - first:
+      213: -6989232135418007129
+    second: parted_humster_2_14
+  - first:
+      213: 4761390762899702218
+    second: parted_humster_2_15
+  - first:
+      213: 2392308357985503811
+    second: parted_humster_2_16
+  - first:
+      213: 5787587191114255641
+    second: parted_humster_2_17
+  - first:
+      213: 1560172487222104817
+    second: Humster_0
+  - first:
+      213: 8314942106354601011
+    second: Humster_1
+  - first:
+      213: -195074856128588774
+    second: Humster_2
+  - first:
+      213: -4806646522492547764
+    second: Humster_3
+  - first:
+      213: 3578921243288599362
+    second: Humster_4
+  - first:
+      213: -5567803149812362528
+    second: Humster_5
+  - first:
+      213: -2138868679092672038
+    second: Humster_6
+  - first:
+      213: -8766998308825351457
+    second: Humster_7
+  - first:
+      213: 628313693978117784
+    second: Humster_8
+  - first:
+      213: 1295889105198143416
+    second: Humster_9
+  - first:
+      213: 5480511865443982483
+    second: Humster_10
+  - first:
+      213: 7005395603402457801
+    second: Humster_11
+  - first:
+      213: -4474763529498367390
+    second: Humster_12
+  - first:
+      213: -8605685003478615279
+    second: Humster_13
+  - first:
+      213: -7849245633605673479
+    second: Humster_14
+  - first:
+      213: 8577486281072194065
+    second: Humster_15
+  - first:
+      213: 1327706553618875309
+    second: Humster_16
+  - first:
+      213: -9150320926247298660
+    second: Humster_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Humster_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1162
+        width: 922
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f216396c98d6a510800000000000000
+      internalID: 1560172487222104817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_1
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1080
+        width: 324
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c44319acb946370800000000000000
+      internalID: 8314942106354601011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_2
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1459
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1458dfa374fa4df0800000000000000
+      internalID: -195074856128588774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_3
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1459
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d07f9547c5b4db0800000000000000
+      internalID: -4806646522492547764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1245
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf059a8e1eaa130800000000000000
+      internalID: 3578921243288599362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_5
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1314
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21224e8803bb2b0800000000000000
+      internalID: -5567803149812362528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 827
+        width: 228
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e871c4463152e0800000000000000
+      internalID: -2138868679092672038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_7
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1054
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab308dc7d555680800000000000000
+      internalID: -8766998308825351457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 827
+        width: 133
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964419c9f738b800800000000000000
+      internalID: 628313693978117784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 827
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b752a7764cebf110800000000000000
+      internalID: 1295889105198143416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_10
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 846
+        width: 153
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1a1f2180be0c40800000000000000
+      internalID: 5480511865443982483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 314
+        width: 316
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c203e36f2a283160800000000000000
+      internalID: 7005395603402457801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 321
+        width: 166
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a606a374276e1c0800000000000000
+      internalID: -4474763529498367390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 304
+        width: 602
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b30ce8517729880800000000000000
+      internalID: -8605685003478615279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 300
+        width: 680
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd52eeea0e11390800000000000000
+      internalID: -7849245633605673479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_15
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 35
+        width: 196
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123811c35a590770800000000000000
+      internalID: 8577486281072194065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 135
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da349667316fc6210800000000000000
+      internalID: 1327706553618875309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Humster_17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 140
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d43a1997830180800000000000000
+      internalID: -9150320926247298660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
